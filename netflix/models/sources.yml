@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: netflix
+    schema: raw
+    tables:
+      - name: movies
+        identifier: RAW_MOVIES
